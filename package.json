@@ -1,0 +1,25 @@
+{
+  "name": "matching-pairs",
+  "description": "Simple pair matching game.",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekrussell/matching-pairs.git"
+  },
+  "author": "Derek Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekrussell/matching-pairs/issues"
+  },
+  "homepage": "https://github.com/derekrussell/matching-pairs#readme",
+  "dependencies": {
+    "sass": "^1.39.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-sass": "^5.0.0"
+  }
+}
